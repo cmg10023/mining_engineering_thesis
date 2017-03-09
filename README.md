@@ -1,2 +1,3 @@
 # mining_engineering_thesis
-Mining Engineering Dissertation
+Mining Engineering Dissertation by José Morais
+@2017
